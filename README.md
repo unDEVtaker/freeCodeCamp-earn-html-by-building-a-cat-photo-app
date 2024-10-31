@@ -4,10 +4,10 @@ Este repositorio contiene el código de la primera parte del curso Responsive We
 ## Descripción 📄
 El objetivo de este proyecto es construir una aplicación web sencilla que muestre fotos de gatos, aplicando los conceptos básicos de HTML, como:
 
-Etiquetas estructurales
-Creación de enlaces
-Añadir imágenes
-Listas y estructura básica de un documento HTML
+Etiquetas estructurales;
+Creación de enlaces;
+Añadir imágenes;
+Listas y estructura básica de un documento HTML.
 
 ## Contenido 📁
 En este repositorio encontrarás un archivo principal:
